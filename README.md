@@ -5,12 +5,9 @@ Module 19 - Unsupervised Machine Learning
 Clustering cryptocurrencies using kmeans and PCA.
 
 # Navigation
-* Leaflet_Part_1 - 
-    * index - provided html code.
-    * static/css
-        * style - provided css file that contains styling code for the html. 
-    * static/js
-        * logic_part1 - javascript file which contains all code.
+* Resources 
+    * crypto_market_data - provided csv dataset.
+* Crypto_Clustering - provided jupyter notebook file that contains the code. 
 
 # References and Resources
 * ChatGPT - https://chat.openai.com/
