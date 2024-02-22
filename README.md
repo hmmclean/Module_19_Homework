@@ -16,7 +16,7 @@ This dataset delves into the price change percentage in cryptocurrency across va
 After executing the principal component analysis with three features, approximately 88% of the variance within the dataset was successfully accounted for. Both the scaled normalized data and the PCA-transformed data demonstrated optimal performance with the application of a 4-cluster Kmeans model.
 
 <p align="center">
-<img src="https://github.com/hmmclean/Module_19_Homework/blob/main/Resources/Pictures/elbow_plots.PNG" width="650">
+<img src="https://github.com/hmmclean/Module_19_Homework/blob/main/Resources/Pictures/elbow_plots.PNG" width="850">
 </p>
 
 
@@ -24,7 +24,7 @@ Using fewer features seemed to create tighter clusters, suggesting a reduction o
 
 
 <p align="center">
-<img src="https://github.com/hmmclean/Module_19_Homework/blob/main/Resources/Pictures/scatter_plots.PNG" width="650">
+<img src="https://github.com/hmmclean/Module_19_Homework/blob/main/Resources/Pictures/scatter_plots.PNG" width="850">
 </p>
 
 # References and Resources
