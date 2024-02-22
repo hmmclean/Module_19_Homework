@@ -14,4 +14,3 @@ Clustering cryptocurrencies using kmeans and PCA.
 
 # References and Resources
 * ChatGPT - https://chat.openai.com/
-* Open Street Map - https://www.openstreetmap.org/
